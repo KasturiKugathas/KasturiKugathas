@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KasturiKugathas 
-- 👀 My interests lies in Data and Integration and always interested in learning new things.
+- 👀 My interests lies in Data and Integration and I'm always interested in learning new things.
 - 💞️ I’m looking to collaborate on any innovative project where my knowledge can be utilized.
 - 📫 I'm always reachable at www.linkedin.com/in/kasturi-kugathas
 
