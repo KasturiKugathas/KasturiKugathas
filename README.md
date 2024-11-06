@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KasturiKugathas 
-- 👀 My interests lies in Data and Integration and I'm always interested in learning new things.
-- 💞️ I’m looking to collaborate on any innovative project where my knowledge can be utilized.
-- 📫 I'm always reachable at www.linkedin.com/in/kasturi-kugathas
+- 👀 I'm a Data and Integration professional with a Product Mindset
+- 📫 Reach me at www.linkedin.com/in/kasturi-kugathas
 
 <!---
 KasturiKugathas/KasturiKugathas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
